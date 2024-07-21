@@ -1,0 +1,16 @@
+:root {
+	--primary-text-color: #fff;
+
+	--secondary-bg: #2c3e50;
+	--primary-bg: #fff;
+	--users-bg: #f3f3f3;
+
+	--scrollbar-thumb: #ddd;
+
+	--message-bg: #2980b9;
+	--message-bg-hover: #2779a1;
+	--message-user-bg: #f3f3f3;
+	--text-primary: #fff;
+	--text-secondary: #000;
+	--additional-text:#ccc;
+}
